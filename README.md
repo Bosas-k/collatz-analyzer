@@ -7,3 +7,5 @@ Naudoja objektinį programavimą, paveldėjimą, konstantes ir generuoja histogr
 - `Collatz.php` – tėvinė klasė
 - `CollatzHistogram.php` – vaikinė klasė
 - `programa.php` – paleidimo failas
+
+Autorius - Ignas Užduotis papildymas
