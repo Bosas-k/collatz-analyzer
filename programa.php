@@ -1,8 +1,8 @@
 <?php
 include_once "CollatzHistogram.php";
 
-$start = 10;
-$end = 10000; 
+$start = 150;
+$end = 1000; 
 
 $histogramAnalyzer = new CollatzHistogram($start, $end);
 $histogramAnalyzer->generateHistogram();
